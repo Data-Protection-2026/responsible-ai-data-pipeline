@@ -2,7 +2,7 @@
 
 A portfolio-ready GenAI data strategy project that demonstrates how AI can turn raw enterprise data into a governed, privacy-safe, high-quality dataset for model training, fine-tuning, evaluation, and benchmark creation.
 
-This project is intentionally designed to show the exact capabilities in the data strategy world:
+This project was designed to demonstrate the core capabilities required for AI data strategies:
 
 - Data quality framework for AI training candidates
 - Privacy and sensitive data detection with redaction
