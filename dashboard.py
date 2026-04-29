@@ -3,7 +3,13 @@ from pathlib import Path
 
 import pandas as pd
 import streamlit as st
+from src.pipeline import run_pipeline
 
+from pathlib import Path
+import sys
+
+ROOT_DIR = Path(__file__).resolve().parent
+sys.path.insert(0, str(ROOT_DIR))
 
 PROJECT_ROOT = Path(__file__).parent
 OUTPUT_DIR = PROJECT_ROOT / "outputs"
