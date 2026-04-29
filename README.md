@@ -1,8 +1,8 @@
 # Responsible AI Data Quality, Privacy, Synthetic Data and Benchmark Pipeline
 
-A portfolio-ready GenAI data strategy project that demonstrates how an AI data leader can turn raw enterprise data into a governed, privacy-safe, high-quality dataset for model training, fine-tuning, evaluation, and benchmark creation.
+A portfolio-ready GenAI data strategy project that demonstrates how AI can turn raw enterprise data into a governed, privacy-safe, high-quality dataset for model training, fine-tuning, evaluation, and benchmark creation.
 
-This project is intentionally designed to show the exact capabilities expected in senior AI data strategy roles:
+This project is intentionally designed to show the exact capabilities in the data strategy world:
 
 - Data quality framework for AI training candidates
 - Privacy and sensitive data detection with redaction
@@ -39,10 +39,6 @@ Curated training/evaluation dataset
         ↓
 Executive data readiness report
 ```
-
-The goal is not to train a frontier model. The goal is to demonstrate that you understand the **data strategy, governance, quality, privacy, synthetic data, and benchmark pipeline** required to support GenAI safely and at scale.
-
----
 
 ## Portfolio story
 
