@@ -1,4 +1,4 @@
-# Responsible AI Data Quality, Privacy, Synthetic Data & Benchmark Pipeline
+# Responsible AI Data Quality, Privacy, Synthetic Data and Benchmark Pipeline
 
 A portfolio-ready GenAI data strategy project that demonstrates how an AI data leader can turn raw enterprise data into a governed, privacy-safe, high-quality dataset for model training, fine-tuning, evaluation, and benchmark creation.
 
