@@ -27,8 +27,12 @@ def load_outputs():
 try:
     curated_df, rejected_df, metrics = load_outputs()
 except FileNotFoundError:
-    st.warning("Run `python run_pipeline.py` first to generate the output files.")
-    st.stop()
+    from src.pipeline import run_pipeline
+
+    st.info("Output files were missing, so the pipeline is running now...")
+    run_pipeline()
+    st.cache_data.clear()
+    curated_df, rejected_df, metrics = load_outputs()
 
 
 col1, col2, col3, col4 = st.columns(4)
