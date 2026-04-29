@@ -13,6 +13,10 @@ This project is intentionally designed to show the exact capabilities expected i
 - Streamlit dashboard for portfolio demonstration
 
 ---
+## Live Demo
+
+View the deployed Streamlit dashboard here:  
+https://responsible-ai-data-pipeline.streamlit.app/
 
 ## Why this project matters
 
